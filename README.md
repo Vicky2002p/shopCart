@@ -20,5 +20,5 @@ By clicking on the count of product in the cart you can remove the product one v
 Python
 
 # Libraries
-Tkinter
+Tkinter,
 Python Imaging Library
